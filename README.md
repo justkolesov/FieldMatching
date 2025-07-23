@@ -1,6 +1,8 @@
 # Field Matching: an Electrostatic Paradigm to Generate and Transfer Data
 
-This is the official `Python` implementation of the paper  **Field Matching: an Electrostatic Paradigm to Generate and Transfer Data** (paper on [Arxiv](https://arxiv.org/pdf/2502.02367)) by [Alexander Kolesov](https://scholar.google.com/citations?user=vX2pmScAAAAJ&hl=ru&oi=ao), Stepan Manukhov , [Vladimir Palyulin](https://scholar.google.com/citations?user=IcjnBqkAAAAJ&hl=ru&oi=sra) and [Alexander Korotin](https://scholar.google.com/citations?user=1rIIvjAAAAAJ&hl=ru&oi=sra).
+This is the official `Python` implementation of the [ICML 2025](https://icml.cc/virtual/2025/poster/46213) paper  **Field Matching: an Electrostatic Paradigm to Generate and Transfer Data** by [Alexander Kolesov](https://scholar.google.com/citations?user=vX2pmScAAAAJ&hl=ru&oi=ao), Stepan Manukhov , [Vladimir V. Palyulin](https://scholar.google.com/citations?user=IcjnBqkAAAAJ&hl=ru&oi=sra) and [Alexander Korotin](https://scholar.google.com/citations?user=1rIIvjAAAAAJ&hl=ru&oi=sra).
+
+The repository contains reproducible PyTorch source code for computing maps for noise-to-data as well as data-to-data scenarios in high dimensions with neural networks. Examples are provided for toy 3D problems, unconditional data generation and unpaired translation problems.
 
 ## Pre-requisites
 
