@@ -4,6 +4,8 @@ This is the official `Python` implementation of the [ICML 2025](https://icml.cc/
 
 The repository contains reproducible PyTorch source code for computing maps for noise-to-data as well as data-to-data scenarios in high dimensions with neural networks. Examples are provided for toy 3D problems, unconditional data generation and unpaired translation problems.
 
+<p align="center"><img src="teaser.pdf" width="400" /></p>
+
 ## Pre-requisites
 
 The implementation is GPU-based. Single GPU GTX 1080 ti is enough to run each particular experiment. We tested the code with `torch==2.1.1+cu121`. The code might not run as intended in older/newer `torch` versions. Versions of other libraries are specified in `requirements.txt`. 
