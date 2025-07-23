@@ -45,6 +45,7 @@ pip install -r requirements.txt
   <img src= "pics/EFMTransInit.png" width="350" />
   <img src="pics/EFMTransMap.png" width="350" /> 
 </p>
+
 ## Credits
 - [Weights & Biases](https://wandb.ai) developer tools for machine learning;
 - [UNet architecture](https://github.com/milesial/Pytorch-UNet) for map network;
