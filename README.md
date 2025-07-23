@@ -21,7 +21,7 @@ All the experiments are issued in the form of pretty self-explanatory jupyter no
 - `notebooks/EFMCIFAR10Generation.ipynb` - the notebook of the noise-to-image generation on CIFAR-10 dataset.
 - 'notebooks/EFMTranslation.ipynb' - the notebook for data-to-data scenario.
 - 'poster' - the poster presented at ICML 2025.
-- 'slides' - slides presented at ICCML 2025.
+- 'slides' - slides presented at ICML 2025.
  
 
 ```console
