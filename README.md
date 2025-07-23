@@ -1,4 +1,4 @@
-# Field Matching: an Electrostatic Paradigm to Generate and Transfer Data
+# Field Matching: an Electrostatic Paradigm to Generate and Transfer Data (ICML 2025)
 
 This is the official `Python` implementation of the [ICML 2025](https://icml.cc/virtual/2025/poster/46213) paper  **Field Matching: an Electrostatic Paradigm to Generate and Transfer Data** by [Alexander Kolesov](https://scholar.google.com/citations?user=vX2pmScAAAAJ&hl=ru&oi=ao), Stepan Manukhov , [Vladimir V. Palyulin](https://scholar.google.com/citations?user=IcjnBqkAAAAJ&hl=ru&oi=sra) and [Alexander Korotin](https://scholar.google.com/citations?user=1rIIvjAAAAAJ&hl=ru&oi=sra).
 
